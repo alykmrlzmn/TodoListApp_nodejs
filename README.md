@@ -1,7 +1,9 @@
 # TodoListApp_nodejs
 Simple To-do List App with Node.js and MongoDB 
-#Start the Project
+
+START THE PROJET
 - git clone the project
 - npm install
-#Run the project
+- 
+RUN THE PROJECT
 - nodemon index.js
